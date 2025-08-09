@@ -1,6 +1,6 @@
 # ERSLDA
 
-The code in this toolbox implements ["Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification"](https://ieeexplore.ieee.org/abstract/document/10542504) by <i>.J Liu, M. Feng, X. Xiu, W. Liu, X. Zeng</i>.
+The code in this toolbox implements ["Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification"](https://ieeexplore.ieee.org/abstract/document/10542504) by <i>J. Liu, M. Feng, X. Xiu, W. Liu, X. Zeng</i>.
 
 
 ### Testing
