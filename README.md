@@ -16,7 +16,7 @@ Please give credits to this paper if this code is useful and helpful for your re
       year      = {2024},
       volume    = {9},
       number    = {1},
-      pages     = {617--629},
+      pages     = {617-629},
       publisher = {IEEE}
      }
 
